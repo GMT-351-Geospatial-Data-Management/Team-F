@@ -106,3 +106,8 @@ const InputClub = () => {
 * <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced" target="_blank">Markdown Preview Enhanced</a>
 
 
+## Contact
+
+* <a href="https://github.com/Berke0609" target="_blank">Asya Arslan</a> - [Gmail](mailto:asyarsln01@gmail.com)
+* <a href="https://github.com/f-karakus" target="_blank">Yasir Eren Çelik</a> - [Gmail](mailto:yasirerencelik@gmail.com)
+* <a href="https://github.com/cirpanrafet" target="_blank">Ezgi Göç</a> - [Gmail](mailto:ezgiigoc@gmail.com)
