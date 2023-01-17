@@ -87,14 +87,6 @@ const InputClub = () => {
         }
     }
 ```
-## Screenshots
-
-* Database
-![database](/docs/database.png)
-* Postman testing
-![postman](/docs/postman_test.png)
-* Console log
-![Console](/docs/LOCALHOST3000.jpg)
 
 ## General Tools / References
 
