@@ -92,7 +92,7 @@ const InputClub = () => {
 * Database
 ![database](/docs/database.png)
 * Console log
-![Console](/docs/LOCALHOST3000.jpg)
+![Console](/docs/localhost.jpg)
 * Postman testing
 ![postman](/docs/postman_test.png)
 ## General Tools / References
