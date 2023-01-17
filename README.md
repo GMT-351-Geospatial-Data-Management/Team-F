@@ -91,10 +91,10 @@ const InputClub = () => {
 
 * Database
 ![database](/docs/database.png)
-* Postman testing
-![postman](/docs/postman_test.png)
 * Console log
 ![Console](/docs/LOCALHOST3000.jpg)
+* Postman testing
+![postman](/docs/postman_test.png)
 ## General Tools / References
 
 * <a href="https://www.youtube.com/watch?v=ldYcgPKEZC8" target="_blank">PERN Stack Course - Postgres, Express, React, and Node</a>
