@@ -1,0 +1,34 @@
+body {
+  /* background-color:#FFF7E9; */
+  background-color: beige;
+  margin: 100;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-link {
+  background-color: rgb(255, 255, 255);
+  float: right;
+}
+
+.gradient {
+  background: linear-gradient(90deg,rgba(45,156,129,.6),rgba(11, 205, 212, 0.391));
+
+}
+
+.btn {
+  padding: 4px;
+  margin-right: 10px;
+  border-radius: 35px;
+  color: rgb(255, 255, 255);
+  text-decoration: none; /*yazının altında çizgi olmasın */
+
+}
