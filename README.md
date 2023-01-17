@@ -106,8 +106,4 @@ const InputClub = () => {
 * <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">Live Server</a>
 * <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced" target="_blank">Markdown Preview Enhanced</a>
 
-## Contact
 
-* <a href="https://github.com/Berke0609" target="_blank">**Berke Aygören**</a> - [Gmail](mailto:berkeaygoren5@gmail.com)
-* <a href="https://github.com/f-karakus" target="_blank">**Fevzican Karakuş**</a> - [Gmail](mailto:fevzican.karakus@gmail.com)
-* <a href="https://github.com/cirpanrafet" target="_blank">**Rafet Çırpan**</a> - [Gmail](mailto:cirpanrafet@gmail.com)
